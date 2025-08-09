@@ -65,11 +65,6 @@ The stopwatch is designed to be simple, user-friendly, and visually appealing wi
 ![Stopwatch running](images/screenshot1.jpg)
 ![Stopwatch running](images/screenshot2.jpg)
 
----
-
-## Contact
-
-Feel free to reach out if you want to know more about this project or my internship experience.
 
 ---
 
